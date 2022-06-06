@@ -1,4 +1,4 @@
-# Hybrid Calisthenics: Workout of the day
+# Hybrid Calisthenics: Workout of the day Widget for iOS
 
 Just a very simple widget that shows the workout of the day based on, you guessed, what day it is.
 Work in progress.
