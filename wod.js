@@ -1,3 +1,11 @@
+/*
+v0.0.1 wip workout of the day on scriptable
+- hardcoded workouts for now
+- simple yet workable.
+- might add more stuff depending on Hampton
+- I don't own the logo, just linking to it
+*/
+
 const img = new Request('https://images.squarespace-cdn.com/content/v1/61bd05f1f151e77577ab467c/3c6f8b68-6860-45bf-aa5e-e3dc260f8d55/Hybrid+Calisthenics+Logo+No+Slogan+Transparent.png?format=1500w')
 const logo = await img.loadImage()
 
